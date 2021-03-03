@@ -35,7 +35,6 @@
 				  <username>utkarsh1803_5</username>
 				  <environment>Sandbox</environment>
 				  <objectStoreV2>true</objectStoreV2>
-				  <objectStoreV1>true</objectStoreV1>
 				  <workers>1</workers>
 				  <workerType>Micro</workerType>
 				  <applicationName>worldtimezone-utk-service</applicationName>
